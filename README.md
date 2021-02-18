@@ -10,3 +10,5 @@ bitcoind -conf=C:\path\to\bitcoin.conf
 
 lnd:
 https://github.com/lightningnetwork/lnd/releases
+
+lnd --configfile=C:\path\to\lnd.conf
