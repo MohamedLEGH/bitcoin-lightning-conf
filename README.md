@@ -7,7 +7,7 @@ C:\Program Files\Bitcoin\daemon
 
 bitcoind -conf=C:\path\to\bitcoin.conf
 
-bitcoin-cli.exe -conf=C:\Users\malegheraba\bitcoin-lightning-conf\bitcoin.conf getblockhash 0
+bitcoin-cli.exe -conf=C:\path\to\bitcoin.conf getblockhash 0
 
 
 lnd:
